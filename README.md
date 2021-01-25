@@ -1,2 +1,3 @@
 # python-cli
-Command Line Interface for Python - Test
+
+Command Line Interface Skeleton for Python.
